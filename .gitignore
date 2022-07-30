@@ -1,0 +1,12 @@
+fonts/
+photos/
+quickstart.py
+token.json
+banners/
+credentials.json
+authorization.json
+spotify_images/
+images/
+.cache
+__pycache__/
+config.py
